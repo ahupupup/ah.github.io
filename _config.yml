@@ -32,7 +32,7 @@ title : Jekyll Jacman
 tagline: A fresh looking and responsive theme for Jekyll
 assets: /assets
 url:
-baseurl:
+baseurl:/ah.github.io
 
 #### Language
 language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
